@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/xXOsielXx/single-price-grid-component-challenge
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-price-component-with-css-grid-1VyJbhPEvp
 - Live Site URL: https://xxosielxx.github.io/single-price-grid-component-challenge
 
 ## My process
